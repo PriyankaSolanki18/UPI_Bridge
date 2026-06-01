@@ -400,6 +400,11 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 
 ---
 
-## License
+🤝 Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
 
-Demo code, no license. Use it however you want for learning.
+📬 Contact:
+👩‍💻 Email : priyankasolanki.1820@gmail.com
+
+⭐ Show your support
+If you like this project, give it a ⭐ on GitHub!
